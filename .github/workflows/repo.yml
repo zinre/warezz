@@ -1,0 +1,19 @@
+name: Archive Repository
+
+on: 
+  push:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install Deno
+        uses: denolib/setup-deno@v2.1.0
+        with:
+          deno-version: v1.2.1
+
+      - name: Archive Repository
+        run: deno run -A https://tools.maximousblk.now.sh/archiverepo.ts xuac/piracy -v -d 5

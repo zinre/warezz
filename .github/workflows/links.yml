@@ -1,0 +1,21 @@
+name: Check Links
+
+on:
+  workflow_dispatch:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Repo
+        uses: actions/checkout@v2
+        
+      - name: Check Links
+        uses: peter-evans/link-checker@v1
+        
+      - name: Create Issue
+        uses: peter-evans/create-issue-from-file@v2
+        with:
+          title: Link Checker Report
+          content-filepath: ./link-checker/out.md
+          labels: broken-links
