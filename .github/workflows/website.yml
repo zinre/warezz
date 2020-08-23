@@ -17,4 +17,4 @@ jobs:
         run: python -m pip install wayback-machine-archiver
 
       - name: Archive Website
-        run: archiver --sitemaps https://piracy.now.sh/sitemap.xml --log=INFO
+        run: archiver --sitemaps https://warezz.now.sh/sitemap.xml --log=INFO
