@@ -422,6 +422,7 @@ sidebar_label: Movies and TV shows
 - [MakeMKV](https://www.makemkv.com/) - MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
 - [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library.
 - [The Encoding Guide](https://encoding-guide.neocities.org/) - An in-depth guide on video encoding.
+- [WinX DVD Ripper](https://www.winxdvd.com/dvd-ripper/) - A hardware accelerated DVD ripper that is able to backup a full DVD to digital MP4 in less than 10 minutes.
 
 ## Automation
 
