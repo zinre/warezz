@@ -16,4 +16,4 @@ jobs:
           deno-version: v1.2.1
 
       - name: Archive Repository
-        run: deno run -A https://tools.maximousblk.now.sh/archiverepo.ts xuac/piracy -v -d 5
+        run: deno run -A https://tools.maximousblk.now.sh/archiverepo.ts xuac/warezz -v -d 5
