@@ -21,7 +21,6 @@ sidebar_label: Comics and Manga
 - [Gazee!](https://github.com/hubbcaps/gazee) - `discontinued` A WebApp Comic Reader for your favorite digital comics.
 - [Comix-Load](https://comix-load.in/) - DDL links for comic books and manga in English and German.
 - [MangaDex](https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
-- [KissManga](http://kissmanga.com/) - Another manga website.
 - [r/manga](https://www.reddit.com/r/manga) - Everything and anything manga! (manhwa is okay too!).
 - [Madokami](https://manga.madokami.al/) - Requires sign-up (currently closed), see archive.org mirrors below.
   - [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) - Download manga titles named 0 to E.
@@ -43,7 +42,6 @@ sidebar_label: Comics and Manga
 - [Mangabat](https://mangabat.com/) - Read Manga Online for free.
 - [Animeheaven.eu](http://animeheaven.eu/) - Read Manga Online for free.
 - [Kissasian](http://kissasian.sh) - Provides HQ animes and material around animes (subs/dubs etc).
-- [KissManga](http://kissmanga.com/)
 - [KissComic](http://readcomiconline.to/)
 
 ## Comics and Manga Automation

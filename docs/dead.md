@@ -31,3 +31,5 @@ This basically graveyard for all the dead links. None the links here are active 
 - [Lit Answers](https://web.archive.org/web/*/litanswers.org/) - Find homework answers.
 - [RealMVP](https://web.archive.org/web/*/realmvp.org/) - New eBooks, video and written tutorials.
 - [BaconFeet](https://web.archive.org/web/*/baconfeet.com/) - "Bringing a difference in streaming to the masses." ([r/BaconFeet](https://web.archive.org/web/*/www.reddit.com/r/BaconFeet/)).
+- [KissManga](https://web.archive.org/web/*/kissmanga.com/)
+- [KissAnime.ru](https://web.archive.org/web/*/kissanime.ru/) - Official russian KissAnime community.
