@@ -25,7 +25,7 @@ sidebar_label: Telegram
 - [Userge](https://github.com/UsergeTeam/Userge/) - Userge is a Powerful , Pluggable Telegram UserBot written in Python using Pyrogram.
 - [Butter Bot](https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection.
 - [Rclone-Telegram-Bot](https://github.com/Shubham0Rajput/Rclone-Telegram-Bot) - This is Rclone Bot in Telegram made for your ease.
-
+- [Nana-Remix](https://github.com/pokurt/Nana-Remix) - Dual-Session Powerful Telegram Userbot with many useful features written in Python using pure Pyrogram. 
 ## Bridges
 
 - [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
