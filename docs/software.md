@@ -246,7 +246,6 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [AniméGlare](https://animeglare.xyz/) - (needs ad-blocker) - Let's you stream any anime for free.
 - [AniméVibe](http://animevibe.tv/) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements!.
 - [AOS TV](https://aostv.app/) - Watch More than 1000+ Live TV Channels free on your Android Phone from across the world.
-- [Apollo TV](https://apollotv.xyz/) - Open-source aggregator for various online video content.
 - [BeeTV](http://beetvapk.me/) - (needs ad-blocker) - Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc.
 - [Cinema HD](https://cinemaapk.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
 - [CKay TV](http://ckaytv.com/) - (needs ad-blocker) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
