@@ -53,7 +53,7 @@ sidebar_label: Software
 ## Software Repacks
 
 - [Diakov.net](https://diakov.net/) - (`RU`) - Russian repacker provides various software repacks.
-- [M0nkrus'a](http://w13.monkrus.ws/) - (`RU`) - Russian repacker, maindly known for Adobe repacks but also provides lot of other repacks.
+- [M0nkrus'a](http://w14.monkrus.ws/) - (`RU`) - Russian repacker, maindly known for Adobe repacks but also provides lot of other repacks.
 - [PoorShock](http://pooshock.ru/) - (`RU`) - Russian repacker and website to various software products, Adobe, Sound Forge etc.
 - [Punsh](https://punsh.at.ua/) - (`RU`) - Russian repacker, similar like PoorShock and M0nkrus.
 - [Soft4PC](https://s0ft4pc.com/) - Yet another website for cracked software repacks.
