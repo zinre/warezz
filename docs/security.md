@@ -555,6 +555,7 @@ This connects you with Tor2web, which then talks to the onion service via Tor an
 - [HitmanPro](https://www.hitmanpro.com) - Antivirus product from Sophos.
 - [Avast Antivirus](https://www.avast.com) - Avast Antivirus is a multi-platform antivirus application with a free tier. Be sure to opt-out of sending anonymous usage statistics.
 - [VirusTotal](https://www.virustotal.com/) - Web service for scanning files and URLs for viruses.
+- [ClamAV](https://www.clamav.net/) - An open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 
 ### VirusTotal alternatives
 
