@@ -524,6 +524,7 @@ This connects you with Tor2web, which then talks to the onion service via Tor an
 - [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google.
   - [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium.
 - [Bromite](https://www.bromite.org/) - A Chromium fork with ad blocking and privacy enhancements.
+- [Librefox](https://librefox.org/) - Firefox with privacy enhancements.
 
 ## Search Engines
 
@@ -536,7 +537,7 @@ This connects you with Tor2web, which then talks to the onion service via Tor an
 - [Jive Search](https://jivesearch.com/) - A search engine that doesn't track you.
 - [Yippy](https://yippy.com/) - Another private search engine and replacement for Google Search.
 - [Qwant](https://lite.qwant.com/) - Yet another search engine.
-- [Librefox](https://librefox.org/) - Firefox with privacy enhancements.
+
 
 ## Antivirus
 
