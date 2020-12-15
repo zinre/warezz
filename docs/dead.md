@@ -33,3 +33,4 @@ This basically graveyard for all the dead links. None the links here are active 
 - [BaconFeet](https://web.archive.org/web/*/baconfeet.com/) - "Bringing a difference in streaming to the masses." ([r/BaconFeet](https://web.archive.org/web/*/www.reddit.com/r/BaconFeet/)).
 - [KissManga](https://web.archive.org/web/*/kissmanga.com/)
 - [KissAnime.ru](https://web.archive.org/web/*/kissanime.ru/) - Official russian KissAnime community.
+- [Apollo TV](https://apollotv.xyz/) - Open-source aggregator for various online video content.
