@@ -11,7 +11,7 @@ sidebar_label: Tools
 - [Video decrypter](https://github.com/CrackerCat/video_decrypter)- Decrypt video from a streaming site with MPEG-DASH Widevine DRM encryption.
 - [ShowRSS.info](http://showrss.info/) - Compile a list of TV shows that you follow and generate an RSS link that you can put in your torrent client to automatically download new episodes as they are released based on the quality that you want (480p, 720p, 1080p, REPACK, etc).
 - [Generate-HoustonLibrary-Codes](https://github.com/SharlSherif/Generate-HoustonLibrary-Codes) - A simple script to automate the process of getting a card number from Houstonlibrary.org in order to get free access to Lynda.com.
-- [DarkNet Stats](https://dnstats.net/) - Monitors DarkNet Forums & Markets.
+- [dark.fail](https://dark.fail/) - Monitors darknet websites including markets and forums.
 - [Mwoffliner](https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem.
 - [GetGoogleSpreadshee​t](https://www.mathworks.com/matlabcentral/fileexchange/39915-getgooglespreadsheet) - Download a google spreadsheet as csv and import into a Matlab cell array.
 - [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS-Win is a minimal port of SSHFS to Windows.
