@@ -469,7 +469,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 | OceanTweak          | [`https://oceantweak.tk/repo/`](https://oceantweak.tk/repo/)                               |
 | Opa334              | [`https://opa334.github.io/`](https://opa334.github.io/)                                   |
 | Packix              | [`https://repo.packix.com/`](https://repo.packix.com/)                                     |
-| Parrotgeek          | [`https://parrotgeek.com/repo/`](https://parrotgeek.com/repo/)                             |
 | PikabuCydia         | [`https://PikabuCydia.github.io/`](https://PikabuCydia.github.io/)                         |
 | Poomsmart           | [`https://poomsmart.github.io/repo/`](https://poomsmart.github.io/repo/)                   |
 | Pulandres           | [`https://pulandres.rejail.ru/`](https://pulandres.rejail.ru/)                             |
