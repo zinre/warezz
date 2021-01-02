@@ -89,7 +89,7 @@ For personal use only. Publishing & sharing it is always illegal!
 - Finland
 - France
 - Germany
-- Itlay
+- Italy
 - Japan
 - Korea
 - Latvia

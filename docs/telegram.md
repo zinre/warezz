@@ -3,7 +3,7 @@ title: Telegram
 sidebar_label: Telegram
 ---
 
-- [Nekogram](https://github.com/Nekogram/Nekogram) - Nekogram is an unofficial telegram app with a focus on speed and security. adds some extra features to official Telegram app.
+- [NekogramX](https://github.com/NekoX-Dev/NekoX) - NekogramX is an unofficial FOSS telegram app with a focus on speed and security. Adds some extra (privacy) features to official Telegram app.
 - [Telegram proxy](https://telegram.ind.in/) - Telegram unblock proxy for countries with Telegram banned.
   - [Telegram web proxy ](https://web.telegram.ind.in/)
   - [Telegram APIs proxy](core.telegram.ind.in)
